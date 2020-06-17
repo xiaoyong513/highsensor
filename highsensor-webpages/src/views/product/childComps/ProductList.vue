@@ -83,6 +83,7 @@ export default {
         text-align: left;
         span {
           color: #000;
+          font-size: 15px;
         }
       }
     }
