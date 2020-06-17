@@ -82,6 +82,7 @@ export default {
         line-height: 30px;
         text-align: left;
         span {
+          color: #000;
         }
       }
     }
