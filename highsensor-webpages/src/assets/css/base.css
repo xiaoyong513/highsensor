@@ -1,0 +1,122 @@
+@import "./normalize.css";
+/* root -> 获取跟元素html */
+
+:root {
+  --color-text: #666;
+  --color-high-text: #4a01f5;
+  --color-tint: #3b04f0;
+  --color-background: #fff;
+  --font-size: 14px;
+  --line-height: 1.5;
+}
+
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  font-family: 14px/1.571429 "Segoe UI", "Lucida Grande", Helvetica, Arial, "Microsoft YaHei", FreeSans, Arimo, "Droid Sans", "wenquanyi micro hei", "Hiragino Sans GB", "Hiragino Sans GB W3", Roboto, Arial, sans-serif;
+  /* 禁止用户鼠标在页面上选中文字/图片等 */
+  user-select: none;
+  /* webkit 是苹果浏览器引擎, tap点击, highlight北京高亮, color颜色, 颜色用数值调节*/
+  -webkit-tap-highlight-color: transparent;
+  background: var(--color-background);
+  color: var(--color-text);
+  width: 100vm;
+  min-width: 1280px;
+}
+
+a {
+  color: var(--color-text);
+  text-decoration: none;
+}
+
+img {
+  vertical-align: middle;
+}
+.clear-fix::after {
+  clear: both;
+  content: '';
+  display: block;
+  width: 0;
+  height: 0;
+  visibility: hidden;
+}
+
+.clear-fix {
+  zoom: 1;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+li {
+  list-style: none;
+}
+.p {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.span {
+  vertical-align: middle;
+}
+div {
+  display: block;
+}
+@media screen and (min-width: 480px) {
+  .container {
+    width: 606px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}     
+
+
+ @media (min-width: 1600px) {
+  .container {
+    width: 1310px;
+  }
+}
+
+
+
+
+
+
+.container {
+  max-width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: .9375rem;
+  padding-left: .9375rem;
+}
+
+.container::after {
+  display: table;
+  clear: both;
+  content: '';
+}

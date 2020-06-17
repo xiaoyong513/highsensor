@@ -1,0 +1,476 @@
+2020-04-24 15:22:16.066 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - Starting HighSensorApplication on xiaoyong with PID 2920 (D:\work\myWorkSpace\git\highsensor\highsensor-website\highsensor-backstage\target\classes started by changyong in D:\work\myWorkSpace\git\highsensor\highsensor-website)
+2020-04-24 15:22:16.070 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - The following profiles are active: dev
+2020-04-24 15:22:16.143 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-24 15:22:16.143 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-24 15:22:17.097 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 7001 (http)
+2020-04-24 15:22:17.106 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-7001"]
+2020-04-24 15:22:17.107 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-24 15:22:17.107 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-24 15:22:17.195 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-24 15:22:17.195 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1051 ms
+2020-04-24 15:22:17.368 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-24 15:22:17.691 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-04-24 15:22:18.922 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-24 15:22:18.925 [restartedMain] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-04-24 15:22:18.936 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-04-24 17:55:54.717 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - Starting HighSensorApplication on xiaoyong with PID 12768 (D:\work\myWorkSpace\git\highsensor\highsensor-website\highsensor-backstage\target\classes started by changyong in D:\work\myWorkSpace\git\highsensor\highsensor-website)
+2020-04-24 17:55:54.722 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - The following profiles are active: dev
+2020-04-24 17:55:54.821 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-24 17:55:54.821 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-24 17:55:55.808 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 7001 (http)
+2020-04-24 17:55:55.817 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-7001"]
+2020-04-24 17:55:55.818 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-24 17:55:55.818 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-24 17:55:55.908 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-24 17:55:55.909 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1088 ms
+2020-04-24 17:55:55.972 [restartedMain] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-04-24 17:55:55.985 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-04-24 18:01:47.182 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - Starting HighSensorApplication on xiaoyong with PID 5772 (D:\work\myWorkSpace\git\highsensor\highsensor-website\highsensor-backstage\target\classes started by changyong in D:\work\myWorkSpace\git\highsensor\highsensor-website)
+2020-04-24 18:01:47.187 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - The following profiles are active: dev
+2020-04-24 18:01:47.281 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-24 18:01:47.281 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-24 18:01:48.598 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 7001 (http)
+2020-04-24 18:01:48.607 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-7001"]
+2020-04-24 18:01:48.608 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-24 18:01:48.608 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-24 18:01:48.693 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-24 18:01:48.693 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1411 ms
+2020-04-24 18:01:48.938 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-04-24 18:01:49.115 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-04-24 18:01:49.596 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-24 18:01:49.696 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-24 18:01:49.740 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-24 18:01:49.881 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-04-24 18:01:49.900 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-04-24 18:01:49.943 [restartedMain] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-04-24 18:01:50.140 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-7001"]
+2020-04-24 18:01:50.165 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 7001 (http) with context path ''
+2020-04-24 18:01:50.169 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - Started HighSensorApplication in 3.526 seconds (JVM running for 4.756)
+2020-04-24 18:02:12.781 [http-nio-7001-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-24 18:02:12.781 [http-nio-7001-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-24 18:02:12.786 [http-nio-7001-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2020-04-24 18:04:55.171 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - Starting HighSensorApplication on xiaoyong with PID 3612 (D:\work\myWorkSpace\git\highsensor\highsensor-website\highsensor-backstage\target\classes started by changyong in D:\work\myWorkSpace\git\highsensor\highsensor-website)
+2020-04-24 18:04:55.174 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - The following profiles are active: dev
+2020-04-24 18:04:55.267 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-24 18:04:55.268 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-24 18:04:56.559 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 7001 (http)
+2020-04-24 18:04:56.567 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-7001"]
+2020-04-24 18:04:56.568 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-24 18:04:56.568 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-24 18:04:56.661 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-24 18:04:56.661 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1393 ms
+2020-04-24 18:04:56.855 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-04-24 18:04:57.042 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-04-24 18:04:57.454 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-24 18:04:57.541 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-24 18:04:57.580 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-24 18:04:57.700 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-04-24 18:04:57.711 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-04-24 18:04:57.739 [restartedMain] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-04-24 18:04:57.913 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-7001"]
+2020-04-24 18:04:57.942 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 7001 (http) with context path ''
+2020-04-24 18:04:57.945 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - Started HighSensorApplication in 3.323 seconds (JVM running for 4.523)
+2020-04-24 18:05:34.298 [http-nio-7001-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-24 18:05:34.298 [http-nio-7001-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-24 18:05:34.304 [http-nio-7001-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2020-04-24 18:09:50.808 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - Starting HighSensorApplication on xiaoyong with PID 13960 (D:\work\myWorkSpace\git\highsensor\highsensor-website\highsensor-backstage\target\classes started by changyong in D:\work\myWorkSpace\git\highsensor\highsensor-website)
+2020-04-24 18:09:50.813 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - The following profiles are active: dev
+2020-04-24 18:09:50.902 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-24 18:09:50.903 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-24 18:09:52.202 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 7001 (http)
+2020-04-24 18:09:52.210 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-7001"]
+2020-04-24 18:09:52.211 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-24 18:09:52.211 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-24 18:09:52.297 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-24 18:09:52.297 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1394 ms
+2020-04-24 18:09:52.485 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-04-24 18:09:52.657 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-04-24 18:09:53.073 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-24 18:09:53.171 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-24 18:09:53.210 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-24 18:09:53.337 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-04-24 18:09:53.350 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-04-24 18:09:53.379 [restartedMain] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-04-24 18:09:53.585 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-7001"]
+2020-04-24 18:09:53.610 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 7001 (http) with context path ''
+2020-04-24 18:09:53.613 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - Started HighSensorApplication in 3.393 seconds (JVM running for 4.643)
+2020-04-24 18:27:53.251 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - Starting HighSensorApplication on xiaoyong with PID 7916 (D:\work\myWorkSpace\git\highsensor\highsensor-website\highsensor-backstage\target\classes started by changyong in D:\work\myWorkSpace\git\highsensor\highsensor-website)
+2020-04-24 18:27:53.256 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - The following profiles are active: dev
+2020-04-24 18:27:53.352 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-24 18:27:53.352 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-24 18:27:54.639 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2020-04-24 18:27:54.639 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1287 ms
+2020-04-24 18:27:54.833 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-04-24 18:27:54.955 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-04-24 18:27:55.409 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-24 18:27:55.498 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-24 18:27:55.541 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-24 18:27:55.691 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-04-24 18:27:55.704 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-04-24 18:27:55.732 [restartedMain] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-04-24 18:27:55.912 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.0.30.Final
+2020-04-24 18:27:55.919 [restartedMain] INFO  org.xnio - XNIO version 3.3.8.Final
+2020-04-24 18:27:55.978 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.3.8.Final
+2020-04-24 18:27:56.035 [restartedMain] INFO  o.s.b.w.embedded.undertow.UndertowServletWebServer - Undertow started on port(s) 7001 (http) with context path ''
+2020-04-24 18:27:56.038 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - Started HighSensorApplication in 3.363 seconds (JVM running for 4.608)
+2020-04-24 18:28:09.050 [XNIO-1 task-1] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-24 18:28:09.051 [XNIO-1 task-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-24 18:28:09.060 [XNIO-1 task-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 9 ms
+2020-04-24 20:03:05.544 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - Starting HighSensorApplication on xiaoyong with PID 14112 (D:\work\myWorkSpace\git\highsensor\highsensor-website\highsensor-backstage\target\classes started by changyong in D:\work\myWorkSpace\git\highsensor\highsensor-website)
+2020-04-24 20:03:05.549 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - The following profiles are active: dev
+2020-04-24 20:03:05.646 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-24 20:03:05.646 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-24 20:03:06.925 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2020-04-24 20:03:06.925 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1279 ms
+2020-04-24 20:03:07.124 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-04-24 20:03:07.237 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-04-24 20:03:07.458 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-04-24 20:03:07.464 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2020-04-24 20:03:07.471 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-04-24 20:04:56.542 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - Starting HighSensorApplication on xiaoyong with PID 15640 (D:\work\myWorkSpace\git\highsensor\highsensor-website\highsensor-backstage\target\classes started by changyong in D:\work\myWorkSpace\git\highsensor\highsensor-website)
+2020-04-24 20:04:56.547 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - The following profiles are active: dev
+2020-04-24 20:04:56.666 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-24 20:04:56.666 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-24 20:04:57.877 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2020-04-24 20:04:57.878 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1212 ms
+2020-04-24 20:04:58.064 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-04-24 20:04:58.171 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-04-24 20:04:58.377 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-04-24 20:04:58.382 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2020-04-24 20:04:58.390 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-04-24 20:05:58.793 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - Starting HighSensorApplication on xiaoyong with PID 4940 (D:\work\myWorkSpace\git\highsensor\highsensor-website\highsensor-backstage\target\classes started by changyong in D:\work\myWorkSpace\git\highsensor\highsensor-website)
+2020-04-24 20:05:58.971 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - The following profiles are active: dev
+2020-04-24 20:05:59.011 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-24 20:05:59.012 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-24 20:06:00.166 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2020-04-24 20:06:00.167 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1155 ms
+2020-04-24 20:06:00.351 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-04-24 20:06:00.455 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-04-24 20:06:00.662 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-04-24 20:06:00.669 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2020-04-24 20:06:00.677 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-04-24 20:12:19.774 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - Starting HighSensorApplication on xiaoyong with PID 8180 (D:\work\myWorkSpace\git\highsensor\highsensor-website\highsensor-backstage\target\classes started by changyong in D:\work\myWorkSpace\git\highsensor\highsensor-website)
+2020-04-24 20:12:19.778 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - The following profiles are active: dev
+2020-04-24 20:12:19.885 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-24 20:12:19.885 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-24 20:12:21.126 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2020-04-24 20:12:21.126 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1241 ms
+2020-04-24 20:12:21.205 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-04-24 20:12:42.235 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - Starting HighSensorApplication on xiaoyong with PID 11948 (D:\work\myWorkSpace\git\highsensor\highsensor-website\highsensor-backstage\target\classes started by changyong in D:\work\myWorkSpace\git\highsensor\highsensor-website)
+2020-04-24 20:12:42.240 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - The following profiles are active: dev
+2020-04-24 20:12:42.333 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-24 20:12:42.333 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-24 20:12:43.549 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2020-04-24 20:12:43.550 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1216 ms
+2020-04-24 20:12:43.738 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-04-24 20:12:43.844 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-04-24 20:12:44.288 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-24 20:12:44.373 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-24 20:12:44.408 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-24 20:12:44.539 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-04-24 20:12:44.551 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-04-24 20:12:44.578 [restartedMain] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-04-24 20:12:44.750 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.0.30.Final
+2020-04-24 20:12:44.756 [restartedMain] INFO  org.xnio - XNIO version 3.3.8.Final
+2020-04-24 20:12:44.769 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.3.8.Final
+2020-04-24 20:12:44.827 [restartedMain] INFO  o.s.b.w.embedded.undertow.UndertowServletWebServer - Undertow started on port(s) 7001 (http) with context path ''
+2020-04-24 20:12:44.830 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - Started HighSensorApplication in 3.121 seconds (JVM running for 4.385)
+2020-04-24 20:12:45.010 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-04-24 20:12:45.025 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-24 20:12:45.027 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-04-24 20:12:45.033 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2020-04-24 20:12:45.039 [restartedMain] INFO  io.undertow - stopping server: Undertow - 2.0.30.Final
+2020-04-24 20:15:16.583 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - Starting HighSensorApplication on xiaoyong with PID 13780 (D:\work\myWorkSpace\git\highsensor\highsensor-website\highsensor-backstage\target\classes started by changyong in D:\work\myWorkSpace\git\highsensor\highsensor-website)
+2020-04-24 20:15:16.587 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - The following profiles are active: dev
+2020-04-24 20:15:16.705 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-24 20:15:16.706 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-24 20:15:17.927 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2020-04-24 20:15:17.928 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1222 ms
+2020-04-24 20:15:18.117 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-04-24 20:15:18.225 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-04-24 20:15:18.702 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-24 20:15:18.789 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-24 20:15:18.827 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-24 20:15:18.950 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-04-24 20:15:18.963 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-04-24 20:15:18.988 [restartedMain] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-04-24 20:15:19.164 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.0.30.Final
+2020-04-24 20:15:19.172 [restartedMain] INFO  org.xnio - XNIO version 3.3.8.Final
+2020-04-24 20:15:19.181 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.3.8.Final
+2020-04-24 20:15:19.242 [restartedMain] INFO  o.s.b.w.embedded.undertow.UndertowServletWebServer - Undertow started on port(s) 7001 (http) with context path ''
+2020-04-24 20:15:19.246 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - Started HighSensorApplication in 3.195 seconds (JVM running for 4.415)
+2020-04-24 20:15:31.870 [XNIO-1 task-1] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-24 20:15:31.871 [XNIO-1 task-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-24 20:15:31.877 [XNIO-1 task-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2020-04-24 20:16:36.591 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - Starting HighSensorApplication on xiaoyong with PID 12280 (D:\work\myWorkSpace\git\highsensor\highsensor-website\highsensor-backstage\target\classes started by changyong in D:\work\myWorkSpace\git\highsensor\highsensor-website)
+2020-04-24 20:16:36.595 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - The following profiles are active: dev
+2020-04-24 20:16:36.705 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-24 20:16:36.705 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-24 20:16:38.179 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2020-04-24 20:16:38.180 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1474 ms
+2020-04-24 20:16:38.411 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-04-24 20:16:38.551 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-04-24 20:16:39.052 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-24 20:16:39.155 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-24 20:16:39.196 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-24 20:16:39.342 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-04-24 20:16:39.359 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-04-24 20:16:39.396 [restartedMain] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-04-24 20:16:39.614 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.0.30.Final
+2020-04-24 20:16:39.622 [restartedMain] INFO  org.xnio - XNIO version 3.3.8.Final
+2020-04-24 20:16:39.635 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.3.8.Final
+2020-04-24 20:16:39.703 [restartedMain] INFO  o.s.b.w.embedded.undertow.UndertowServletWebServer - Undertow started on port(s) 7001 (http) with context path ''
+2020-04-24 20:16:39.708 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - Started HighSensorApplication in 3.703 seconds (JVM running for 6.313)
+2020-04-24 20:16:43.588 [XNIO-1 task-1] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-24 20:16:43.588 [XNIO-1 task-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-24 20:16:43.595 [XNIO-1 task-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2020-04-24 20:17:52.576 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-24 20:17:52.579 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-04-24 20:17:52.585 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2020-04-24 20:17:52.587 [SpringContextShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2020-04-24 20:17:52.592 [SpringContextShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.0.30.Final
+2020-04-24 20:17:59.702 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - Starting HighSensorApplication on xiaoyong with PID 17968 (D:\work\myWorkSpace\git\highsensor\highsensor-website\highsensor-backstage\target\classes started by changyong in D:\work\myWorkSpace\git\highsensor\highsensor-website)
+2020-04-24 20:17:59.706 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - The following profiles are active: dev
+2020-04-24 20:17:59.811 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-24 20:17:59.812 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-24 20:18:01.333 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2020-04-24 20:18:01.334 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1522 ms
+2020-04-24 20:18:01.611 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-04-24 20:18:01.752 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-04-24 20:18:02.274 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-24 20:18:02.374 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-24 20:18:02.415 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-24 20:18:02.574 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-04-24 20:18:02.592 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-04-24 20:18:02.636 [restartedMain] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-04-24 20:18:02.877 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.0.30.Final
+2020-04-24 20:18:02.886 [restartedMain] INFO  org.xnio - XNIO version 3.3.8.Final
+2020-04-24 20:18:02.901 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.3.8.Final
+2020-04-24 20:18:02.968 [restartedMain] INFO  o.s.b.w.embedded.undertow.UndertowServletWebServer - Undertow started on port(s) 7001 (http) with context path ''
+2020-04-24 20:18:02.972 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - Started HighSensorApplication in 3.985 seconds (JVM running for 5.567)
+2020-04-24 20:18:03.656 [XNIO-1 task-1] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-24 20:18:03.657 [XNIO-1 task-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-24 20:18:03.665 [XNIO-1 task-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 8 ms
+2020-04-24 20:19:42.474 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-24 20:19:42.476 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-04-24 20:19:42.484 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2020-04-24 20:19:42.487 [SpringContextShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2020-04-24 20:19:42.491 [SpringContextShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.0.30.Final
+2020-04-24 20:19:48.640 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - Starting HighSensorApplication on xiaoyong with PID 17528 (D:\work\myWorkSpace\git\highsensor\highsensor-website\highsensor-backstage\target\classes started by changyong in D:\work\myWorkSpace\git\highsensor\highsensor-website)
+2020-04-24 20:19:48.644 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - The following profiles are active: dev
+2020-04-24 20:19:48.729 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-24 20:19:48.730 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-24 20:19:49.959 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2020-04-24 20:19:49.959 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1229 ms
+2020-04-24 20:19:50.151 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-04-24 20:19:50.267 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-04-24 20:19:50.711 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-24 20:19:50.795 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-24 20:19:50.830 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-24 20:19:50.960 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-04-24 20:19:50.972 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-04-24 20:19:51.000 [restartedMain] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-04-24 20:19:51.172 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.0.30.Final
+2020-04-24 20:19:51.177 [restartedMain] INFO  org.xnio - XNIO version 3.3.8.Final
+2020-04-24 20:19:51.187 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.3.8.Final
+2020-04-24 20:19:51.238 [restartedMain] INFO  o.s.b.w.embedded.undertow.UndertowServletWebServer - Undertow started on port(s) 7001 (http) with context path ''
+2020-04-24 20:19:51.241 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - Started HighSensorApplication in 3.166 seconds (JVM running for 4.762)
+2020-04-24 20:19:58.283 [XNIO-1 task-1] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-24 20:19:58.283 [XNIO-1 task-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-24 20:19:58.288 [XNIO-1 task-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2020-04-24 20:20:44.083 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - Starting HighSensorApplication on xiaoyong with PID 16396 (D:\work\myWorkSpace\git\highsensor\highsensor-website\highsensor-backstage\target\classes started by changyong in D:\work\myWorkSpace\git\highsensor\highsensor-website)
+2020-04-24 20:20:44.090 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - The following profiles are active: dev
+2020-04-24 20:20:44.199 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-24 20:20:44.200 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-24 20:20:45.392 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2020-04-24 20:20:45.392 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1192 ms
+2020-04-24 20:20:45.620 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-04-24 20:20:45.724 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-04-24 20:20:46.159 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-24 20:20:46.242 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-24 20:20:46.279 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-24 20:20:46.405 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-04-24 20:20:46.417 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-04-24 20:20:46.445 [restartedMain] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-04-24 20:20:46.618 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.0.30.Final
+2020-04-24 20:20:46.624 [restartedMain] INFO  org.xnio - XNIO version 3.3.8.Final
+2020-04-24 20:20:46.633 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.3.8.Final
+2020-04-24 20:20:46.686 [restartedMain] INFO  o.s.b.w.embedded.undertow.UndertowServletWebServer - Undertow started on port(s) 7001 (http) with context path ''
+2020-04-24 20:20:46.689 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - Started HighSensorApplication in 3.204 seconds (JVM running for 4.507)
+2020-04-24 20:21:02.197 [XNIO-1 task-1] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-24 20:21:02.198 [XNIO-1 task-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-24 20:21:02.204 [XNIO-1 task-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2020-04-24 20:21:28.410 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - Starting HighSensorApplication on xiaoyong with PID 16652 (D:\work\myWorkSpace\git\highsensor\highsensor-website\highsensor-backstage\target\classes started by changyong in D:\work\myWorkSpace\git\highsensor\highsensor-website)
+2020-04-24 20:21:28.416 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - The following profiles are active: dev
+2020-04-24 20:21:28.508 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-24 20:21:28.508 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-24 20:21:29.974 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2020-04-24 20:21:29.974 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1465 ms
+2020-04-24 20:21:30.217 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-04-24 20:21:30.348 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-04-24 20:21:30.854 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-24 20:21:31.113 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-24 20:21:31.155 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-24 20:21:31.301 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-04-24 20:21:31.317 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-04-24 20:21:31.355 [restartedMain] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-04-24 20:21:31.584 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.0.30.Final
+2020-04-24 20:21:31.593 [restartedMain] INFO  org.xnio - XNIO version 3.3.8.Final
+2020-04-24 20:21:31.604 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.3.8.Final
+2020-04-24 20:21:31.669 [restartedMain] INFO  o.s.b.w.embedded.undertow.UndertowServletWebServer - Undertow started on port(s) 7001 (http) with context path ''
+2020-04-24 20:21:31.673 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - Started HighSensorApplication in 3.939 seconds (JVM running for 5.545)
+2020-04-24 20:21:41.232 [XNIO-1 task-1] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-24 20:21:41.232 [XNIO-1 task-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-24 20:21:41.240 [XNIO-1 task-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 8 ms
+2020-04-24 20:22:17.043 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-24 20:22:17.045 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-04-24 20:22:17.051 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2020-04-24 20:22:17.053 [SpringContextShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2020-04-24 20:22:17.056 [SpringContextShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.0.30.Final
+2020-04-24 20:23:13.676 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - Starting HighSensorApplication on xiaoyong with PID 2912 (D:\work\myWorkSpace\git\highsensor\highsensor-website\highsensor-backstage\target\classes started by changyong in D:\work\myWorkSpace\git\highsensor\highsensor-website)
+2020-04-24 20:23:13.681 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - The following profiles are active: dev
+2020-04-24 20:23:13.768 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-24 20:23:13.768 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-24 20:23:15.181 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2020-04-24 20:23:15.182 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1414 ms
+2020-04-24 20:23:15.415 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-04-24 20:23:15.547 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-04-24 20:23:16.053 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-24 20:23:16.151 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-24 20:23:16.194 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-24 20:23:16.366 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-04-24 20:23:16.385 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-04-24 20:23:16.421 [restartedMain] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-04-24 20:23:16.641 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.0.30.Final
+2020-04-24 20:23:16.649 [restartedMain] INFO  org.xnio - XNIO version 3.3.8.Final
+2020-04-24 20:23:16.661 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.3.8.Final
+2020-04-24 20:23:16.738 [restartedMain] INFO  o.s.b.w.embedded.undertow.UndertowServletWebServer - Undertow started on port(s) 7001 (http) with context path ''
+2020-04-24 20:23:16.742 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - Started HighSensorApplication in 3.726 seconds (JVM running for 5.283)
+2020-04-24 20:23:20.328 [XNIO-1 task-1] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-24 20:23:20.328 [XNIO-1 task-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-24 20:23:20.336 [XNIO-1 task-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2020-04-24 20:25:02.038 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-24 20:25:02.041 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-04-24 20:25:02.048 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2020-04-24 20:25:02.050 [SpringContextShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2020-04-24 20:25:02.053 [SpringContextShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.0.30.Final
+2020-04-24 20:25:30.600 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - Starting HighSensorApplication on xiaoyong with PID 11520 (D:\work\myWorkSpace\git\highsensor\highsensor-website\highsensor-backstage\target\classes started by changyong in D:\work\myWorkSpace\git\highsensor\highsensor-website)
+2020-04-24 20:25:30.606 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - The following profiles are active: dev
+2020-04-24 20:25:30.716 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-24 20:25:30.717 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-24 20:25:32.272 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2020-04-24 20:25:32.272 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1555 ms
+2020-04-24 20:25:32.514 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-04-24 20:25:32.644 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-04-24 20:25:33.162 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-24 20:25:33.269 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-24 20:25:33.313 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-24 20:25:33.464 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-04-24 20:25:33.480 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-04-24 20:25:33.517 [restartedMain] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-04-24 20:25:33.744 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.0.30.Final
+2020-04-24 20:25:33.753 [restartedMain] INFO  org.xnio - XNIO version 3.3.8.Final
+2020-04-24 20:25:33.766 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.3.8.Final
+2020-04-24 20:25:33.832 [restartedMain] INFO  o.s.b.w.embedded.undertow.UndertowServletWebServer - Undertow started on port(s) 7001 (http) with context path ''
+2020-04-24 20:25:33.836 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - Started HighSensorApplication in 3.933 seconds (JVM running for 5.426)
+2020-04-24 20:25:38.365 [XNIO-1 task-1] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-24 20:25:38.365 [XNIO-1 task-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-24 20:25:38.372 [XNIO-1 task-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2020-04-24 20:37:09.883 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-24 20:37:09.886 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-04-24 20:37:09.896 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2020-04-24 20:37:09.899 [SpringContextShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2020-04-24 20:37:09.903 [SpringContextShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.0.30.Final
+2020-04-24 20:50:58.380 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - Starting HighSensorApplication on xiaoyong with PID 816 (D:\work\myWorkSpace\git\highsensor\highsensor-website\highsensor-backstage\target\classes started by changyong in D:\work\myWorkSpace\git\highsensor\highsensor-website)
+2020-04-24 20:50:58.385 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - The following profiles are active: dev
+2020-04-24 20:50:58.481 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-24 20:50:58.481 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-24 20:50:59.807 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2020-04-24 20:50:59.807 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1325 ms
+2020-04-24 20:51:00.000 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-04-24 20:51:00.162 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-04-24 20:51:00.627 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-24 20:51:00.724 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-24 20:51:00.766 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-24 20:51:00.907 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-04-24 20:51:00.920 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-04-24 20:51:00.952 [restartedMain] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-04-24 20:51:01.144 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.0.30.Final
+2020-04-24 20:51:01.149 [restartedMain] INFO  org.xnio - XNIO version 3.3.8.Final
+2020-04-24 20:51:01.163 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.3.8.Final
+2020-04-24 20:51:01.222 [restartedMain] INFO  o.s.b.w.embedded.undertow.UndertowServletWebServer - Undertow started on port(s) 7001 (http) with context path ''
+2020-04-24 20:51:01.226 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - Started HighSensorApplication in 3.42 seconds (JVM running for 4.833)
+2020-04-24 20:51:30.938 [XNIO-1 task-1] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-24 20:51:30.938 [XNIO-1 task-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-24 20:51:30.957 [XNIO-1 task-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 18 ms
+2020-04-24 20:51:31.189 [XNIO-1 task-1] INFO  c.h.website.backstage.service.impl.AuthManager - token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIxIiwibmFtZSI6ImFkbWluIiwiZXhwIjoxNTg3NzM5ODkxfQ.PvSC0qS1SMEZwDgqOP2DVFDTDByVD2YtMq2045mlQsWgNGB2JBa2mcuf2hUbczHkyFFC2wt-SdAJxXAuULUyrNF2B6GFxxzGBYPPTb5DITfq3b33aaeifN-KZ5Nc1l0VT--mvwEcD6We0NIMA9yExqCr5EzCJQdtqg0EVivitcU
+2020-04-24 21:17:22.606 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - Starting HighSensorApplication on xiaoyong with PID 5500 (D:\work\myWorkSpace\git\highsensor\highsensor-website\highsensor-backstage\target\classes started by changyong in D:\work\myWorkSpace\git\highsensor\highsensor-website)
+2020-04-24 21:17:22.610 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - The following profiles are active: dev
+2020-04-24 21:17:22.705 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-24 21:17:22.705 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-24 21:17:24.199 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2020-04-24 21:17:24.199 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1493 ms
+2020-04-24 21:17:24.455 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-04-24 21:17:24.594 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-04-24 21:17:25.115 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-24 21:17:25.215 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-24 21:17:25.256 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-24 21:17:25.420 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-04-24 21:17:25.440 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-04-24 21:17:25.478 [restartedMain] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-04-24 21:17:25.720 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.0.30.Final
+2020-04-24 21:17:25.728 [restartedMain] INFO  org.xnio - XNIO version 3.3.8.Final
+2020-04-24 21:17:25.739 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.3.8.Final
+2020-04-24 21:17:25.807 [restartedMain] INFO  o.s.b.w.embedded.undertow.UndertowServletWebServer - Undertow started on port(s) 7001 (http) with context path ''
+2020-04-24 21:17:25.811 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - Started HighSensorApplication in 3.956 seconds (JVM running for 5.804)
+2020-04-24 21:17:39.997 [XNIO-1 task-1] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-24 21:17:39.997 [XNIO-1 task-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-24 21:17:40.003 [XNIO-1 task-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2020-04-24 21:17:47.172 [XNIO-1 task-1] INFO  c.h.website.backstage.service.impl.AuthManager - token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIxIiwibmFtZSI6ImFkbWluIiwiZXhwIjoxNTg3NzQxNDYzfQ.fk2NusN-UNh6Z8A4Wvg60RpTUPAEOpuMDjho2TcZaqzz7tVH7ExjfxPL0-DC7f0x94nUzgvb0GhGV4RP-fRcZfEVOLi8lE0Jy-tYR7emVa7SptkfRNJVQ9X_AfSJoJn9Mep9N7IwIhrH68xG_wCsxUNGyJFhIIXCOBJECUWkdvY
+2020-04-24 21:25:51.128 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-24 21:25:51.131 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-04-24 21:25:51.138 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2020-04-24 21:25:51.141 [SpringContextShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2020-04-24 21:25:51.144 [SpringContextShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.0.30.Final
+2020-04-24 21:26:00.033 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - Starting HighSensorApplication on xiaoyong with PID 3236 (D:\work\myWorkSpace\git\highsensor\highsensor-website\highsensor-backstage\target\classes started by changyong in D:\work\myWorkSpace\git\highsensor\highsensor-website)
+2020-04-24 21:26:00.038 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - The following profiles are active: dev
+2020-04-24 21:26:00.138 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-24 21:26:00.138 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-24 21:26:01.573 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2020-04-24 21:26:01.573 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1435 ms
+2020-04-24 21:26:01.808 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-04-24 21:26:01.941 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-04-24 21:26:02.446 [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-24 21:26:02.547 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-24 21:26:02.591 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-24 21:26:02.740 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-04-24 21:26:02.757 [restartedMain] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-04-24 21:26:02.792 [restartedMain] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-04-24 21:26:03.025 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.0.30.Final
+2020-04-24 21:26:03.035 [restartedMain] INFO  org.xnio - XNIO version 3.3.8.Final
+2020-04-24 21:26:03.047 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.3.8.Final
+2020-04-24 21:26:03.109 [restartedMain] INFO  o.s.b.w.embedded.undertow.UndertowServletWebServer - Undertow started on port(s) 7001 (http) with context path ''
+2020-04-24 21:26:03.113 [restartedMain] INFO  c.h.website.backstage.HighSensorApplication - Started HighSensorApplication in 3.77 seconds (JVM running for 5.562)
+2020-04-24 21:26:10.892 [XNIO-1 task-1] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-24 21:26:10.892 [XNIO-1 task-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-24 21:26:10.900 [XNIO-1 task-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2020-04-24 21:26:15.139 [XNIO-1 task-1] INFO  c.h.website.backstage.service.impl.AuthManager - token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIxIiwibmFtZSI6ImFkbWluIiwiZXhwIjoxNTg3NzQxOTc1fQ.wXQfrIX_gUtGFe2EY1vDzyniNUUbDQ3pst6xckj_E-_4bekfo13E8SckEC8AWoBj-RRJ_8Oguftc_HKQ2BKCOnM_iP96wJxU7Ur_7tYbojeVRuauAENlQ-zZrQ8F4RL641kwCRr0ra4LFbfWSgjswgOw8NsFP90eVibgGRihRAY
+2020-04-24 21:30:53.225 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-24 21:30:53.228 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-04-24 21:30:53.235 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2020-04-24 21:30:53.237 [SpringContextShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2020-04-24 21:30:53.240 [SpringContextShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.0.30.Final
