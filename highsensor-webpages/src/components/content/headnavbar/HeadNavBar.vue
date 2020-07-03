@@ -12,9 +12,9 @@
         <tab-bar-item path="/solution" activeColor="#203fbb">
           <span slot="item-text">解决方案</span>
         </tab-bar-item>
-        <tab-bar-item path="/product" activeColor="#203fbb">
+        <!-- <tab-bar-item path="/product" activeColor="#203fbb">
           <span slot="item-text">产品中心</span>
-        </tab-bar-item>
+        </tab-bar-item> -->
         <tab-bar-item path="/contact" activeColor="#203fbb">
           <span slot="item-text">联系我们</span>
         </tab-bar-item>
@@ -61,7 +61,6 @@ export default {
   box-shadow: 0 2px 3px rgba(7, 0, 2, 0.04);
   z-index: 9999;
 }
-
 .nav-search {
   position: relative;
   margin-left: 50px;

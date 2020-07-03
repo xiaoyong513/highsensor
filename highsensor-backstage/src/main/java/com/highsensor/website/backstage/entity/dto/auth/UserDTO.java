@@ -1,4 +1,4 @@
-package com.highsensor.website.backstage.dto.auth;
+package com.highsensor.website.backstage.entity.dto.auth;
 
 import com.google.common.base.Converter;
 import com.highsensor.website.backstage.entity.User;

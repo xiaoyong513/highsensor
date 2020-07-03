@@ -1,6 +1,5 @@
 package com.highsensor.website.common.constants;
 
-import javafx.scene.input.KeyCodeCombination;
 import lombok.Getter;
 
 /**
@@ -30,6 +29,11 @@ public enum ResultCodeEnum {
     JWT_SIGNATURE(false, 20202, "签名错误"),
     JWT_ILLEGAL_ARGUMENT(false, 20203, "token为空"),
     JWT_PARSER_TOKEN_FAIL(false, 20204, "解析token失败"),
+
+    /**
+     * 添加首页模块 20300-20399
+     */
+    HOME_MODULE_IS_EXIST(false, 20300, "模块已经存在"),
     ;
     private Boolean success;
 

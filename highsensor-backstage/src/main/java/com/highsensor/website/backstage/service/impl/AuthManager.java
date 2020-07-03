@@ -1,7 +1,7 @@
 package com.highsensor.website.backstage.service.impl;
 
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
-import com.highsensor.website.backstage.dto.auth.UserDTO;
+import com.highsensor.website.backstage.entity.dto.auth.UserDTO;
 import com.highsensor.website.backstage.entity.User;
 import com.highsensor.website.backstage.jwt.JwtTokenServerUtils;
 import com.highsensor.website.backstage.jwt.JwtUserInfo;

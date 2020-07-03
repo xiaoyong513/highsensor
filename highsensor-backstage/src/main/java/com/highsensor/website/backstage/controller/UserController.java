@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @since 2020-04-24
  */
 @RestController
-@RequestMapping("/backstage/user")
+@RequestMapping("/highsensor/user")
 public class UserController {
 
 }

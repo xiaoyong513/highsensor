@@ -1,4 +1,5 @@
 module.exports = {
+  filenameHashing: false,
   configureWebpack: {
     resolve: {
       alias: {
@@ -9,6 +10,18 @@ module.exports = {
       }
     }
   },
+  devServer: {
+    proxy: {
+      '/highsensor': {
+        target: 'http://62.234.170.158:8080/highsensor',
+        changeOrigin: true,
+        ws: true,
+        pathRewrite: {
+          '^/highsensor': ''
+        }
+      }
+    }
+  }
   // chainWebpack: config => {
   //   config.rule('js').include.add(/node_modules\/(dom7|swiper)\/.*/)
   // },

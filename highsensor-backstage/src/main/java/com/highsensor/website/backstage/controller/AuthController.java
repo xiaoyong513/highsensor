@@ -1,6 +1,6 @@
 package com.highsensor.website.backstage.controller;
 
-import com.highsensor.website.backstage.dto.auth.LoginParamDTO;
+import com.highsensor.website.backstage.entity.dto.auth.LoginParamDTO;
 import com.highsensor.website.backstage.jwt.JwtUserInfo;
 import com.highsensor.website.backstage.service.impl.AuthManager;
 import com.highsensor.website.common.exception.HighSensorException;

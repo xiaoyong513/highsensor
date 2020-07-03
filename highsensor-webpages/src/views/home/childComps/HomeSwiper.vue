@@ -1,7 +1,7 @@
 <template>
   <div class="home-swiper clear-fix">
     <swiper class="swiper" :options="swiperOption">
-      <swiper-slide v-for="item in banners" :key="item.id">
+      <swiper-slide v-for="item in banner.collection" :key="item.id">
         <img :src="item.image" alt style="width: 100%"/>
       </swiper-slide>
       <div class="swiper-pagination home-pagination" slot="pagination"></div>
@@ -21,10 +21,10 @@ export default {
     SwiperSlide
   },
   props: {
-    banners: {
-      type: Array,
+    banner: {
+      type: Object,
       default() {
-        return [];
+        return {};
       }
     }
   },

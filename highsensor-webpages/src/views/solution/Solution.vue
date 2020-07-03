@@ -7,7 +7,7 @@
     </div>
 
     <div class="second-content">
-      <div class="car-solution">
+      <div class="car-solution" ref="car">
         <div class="car-top">
           <div class="top-first-img">
             <img src="@/assets/img/solution/car/fanguangjing.png" alt />
@@ -40,7 +40,7 @@
         </div>
       </div>
 
-      <div class="motorcycle-solution">
+      <div class="motorcycle-solution" ref="motorcycle">
         <div class="moto-top">
           <div class="top-first-img">
             <img src="@/assets/img/solution/moto/zuhetaozhuang.png" alt />

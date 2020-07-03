@@ -1,9 +1,8 @@
-package com.highsensor.website.backstage.dto.auth;
+package com.highsensor.website.backstage.entity.dto.auth;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
 import lombok.AllArgsConstructor;
-import lombok.Builder;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 import lombok.NoArgsConstructor;

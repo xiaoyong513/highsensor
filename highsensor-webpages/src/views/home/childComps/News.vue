@@ -2,11 +2,11 @@
   <div class="news-wrapper">
     <div class="container">
       <!-- 大标题 -->
-      <h3 class="comm-title">经营产业</h3>
+      <h3 class="comm-title">{{news.name}}</h3>
       <!-- 描述文字 -->
       <p
         class="comm-info"
-      >集团成立于2001年6月，是市政府直属的国有全资大型投资集团。经过这些年的不断发展壮大，截至目前，集团公司拥有控参股企业54家，有限合伙企业6家，职工近3万余名，合并资产总额812.48亿元，获得AAA信用等级及“中国企业500强”称号。</p>
+      >{{news.info}}</p>
     </div>
 
     <!-- <div>
@@ -26,7 +26,7 @@
     <div class="news-list">
       <div class="container">
         <swiper class="swiper" :options="swiperOption">
-          <swiper-slide v-for="(item) in news" :key="item.id">
+          <swiper-slide v-for="(item) in news.collection" :key="item.id">
             <div class="news-wrapper">
               <div class="news-img">
                 <img :src="item.image" alt />
@@ -65,9 +65,9 @@ export default {
   },
   props: {
     news: {
-      type: Array,
+      type: Object,
       default() {
-        return [];
+        return {};
       }
     }
   },
